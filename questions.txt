@@ -1,0 +1,2 @@
+1)what offers type and sub offerType, treatmentcode call SOAP_MRTM_GETAVAILABLEOFFERS store table--avalabe offer 
+CVM2_MRTM_Offers 
